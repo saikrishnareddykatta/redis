@@ -1,0 +1,2 @@
+# redis
+learnings about redis
